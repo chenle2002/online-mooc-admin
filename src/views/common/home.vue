@@ -19,7 +19,7 @@
     </ul>
     <h3>邮箱</h3>
     <ul>
-      <li>chenle2020@mail.ynu.edu.cn</li>
+      <li>chenle2020ynu@163.com</li>
     </ul>
   </div>
 </template>
