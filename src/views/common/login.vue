@@ -3,9 +3,9 @@
     <div class="site-content__wrapper">
       <div class="site-content">
         <div class="brand-info">
-          <h2 class="brand-info__text">在线教学管理系统</h2>
+          <h2 class="brand-info__text">法途——法学在线教学管理平台</h2>
           <p class="brand-info__intro">
-            参照大多数在线教学网站或慕课网站，为某一公司设计一个方便、实用的在线课程学习平台。该平台主要用于管理和向用户发布公司所有版权的相应学习资料
+            参照大多数在线教学网站或慕课网站，为某公司设计一个方便、实用的法学在线课程学习平台。该部分为管理端
           </p>
         </div>
         <div class="login-main">
